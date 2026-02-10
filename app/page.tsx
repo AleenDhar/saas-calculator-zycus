@@ -744,5 +744,5 @@ export default function ZycusPricingCalculator(): React.ReactElement {
         </div>
       </div>
     </div>
-  );
+  )
 }
